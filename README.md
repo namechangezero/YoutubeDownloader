@@ -49,7 +49,7 @@ python main.py
 
 ## LICENSE
 
-[MIT](https://github.com/swapnilsparsh/YoutubeDownloader/blob/master/LICENSE)
+[MIT](https://github.com/swapnilsparsh/YoutubeDownloader/blob/master/LICENSE)  
 You can do with my code whatever you want.  
 
 ## Connect with me
